@@ -1,6 +1,6 @@
 # Learn Quran online with AlQuranRecite
 
-# Live site _https://elated-raman-f57369.netlify.app/
+# Live site _https://learning-quran-using-react-ass-9.netlify.app/home
 
 # Features 
 1.In the home page several types of courses are available.
