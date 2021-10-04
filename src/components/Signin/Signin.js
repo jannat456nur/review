@@ -17,7 +17,7 @@ const Signin = () => {
                     <input type="checkbox" class="form-check-input" id="exampleCheck1" />
                     {/* <label class="form-check-label" for="exampleCheck1">Check me out</label> */}
                 </div>
-                <button type="submit" class="btn btn-primary mb-2">Submit</button>
+                <button type="submit" class="btn btn-secondary mb-2">Submit</button>
             </form>
 
         </div>

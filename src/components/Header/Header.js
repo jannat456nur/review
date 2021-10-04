@@ -10,7 +10,7 @@ const Header = () => {
 
 
                 <div className="col-lg-6 col-md-6 col-sm-12  ">
-                    <h1 className="heading"> Learn quran</h1>
+
 
                     <Link className=" text-white link" to="/home">Home</Link>
                     <Link className=" text-white link " to="/service">Services</Link>
@@ -24,10 +24,8 @@ const Header = () => {
                 </div>
 
 
-                <div className="col-lg-6">
-                    <img src="" alt="" />
-                </div>
-                <div className="col-lg-6">
+
+                <div className="col-lg-6 ">
 
                     <h1 className="text-white">Learn To Read Quran</h1>
                 </div>

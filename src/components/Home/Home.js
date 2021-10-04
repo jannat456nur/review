@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import HomeService from '../HomeService/HomeService';
 
+
 const Home = () => {
     const [homeServices, setHomeServices] = useState([])
     useEffect(() => {
@@ -12,7 +13,7 @@ const Home = () => {
         <div>
 
 
-            <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="row row-cols-1 row-cols-md-3 g-4 ">
                 {
                     homeServices.map(homeService => <HomeService
                         key={homeService.id}
@@ -21,7 +22,7 @@ const Home = () => {
                     ></HomeService>)
                 }
             </div>
-            <h2>This is home</h2>
+
         </div>
     );
 };

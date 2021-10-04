@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div >
-            <footer className="row bg-black text-white p-5  ">
+            <footer className="row bg-black text-white p-5 mt-5 ">
                 {/* <i class="fab fa-whatsapp "></i>
                 <i class="fab fa-instagram-square "></i>
                 <i class="fab fa-facebook"></i>
