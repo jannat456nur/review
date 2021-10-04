@@ -10,7 +10,7 @@ const Header = () => {
 
 
                 <div className="col-lg-6 col-md-6 col-sm-12  ">
-                    {/* <h1 className="heading"> Learn quran</h1> */}
+                    <h1 className="heading"> Learn quran</h1>
 
                     <Link className=" text-white link" to="/home">Home</Link>
                     <Link className=" text-white link " to="/service">Services</Link>
@@ -28,49 +28,19 @@ const Header = () => {
                     <img src="" alt="" />
                 </div>
                 <div className="col-lg-6">
-                    {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsum distinctio accusamus corrupti dolore deserunt sed culpa at quia in.</p> */}
+
                     <h1 className="text-white">Learn To Read Quran</h1>
                 </div>
 
             </div>
-
-
-
-            {/* 
-            <header>
-                <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-                    <div class="container-fluid">
-
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                                <li class="nav-item">
-                                    <Link class="nav-link active" aria-current="page" href="#">Home</Link>
-                                </li>
-                                <li class="nav-item">
-                                    <Link class="nav-link active" href="#">Services</Link>
-                                </li>
-                                <li class="nav-item">
-                                    <Link class="nav-link active" href="#">About</Link>
-                                </li>
-                                <li class="nav-item">
-                                    <Link class="nav-link active" href="#">Log In</Link>
-                                </li>
-                                <li class="nav-item">
-                                    <Link class="nav-link active" href="#">Sign In</Link>
-                                </li>
-
-
-
-                            </ul>
-
-                        </div>
-                    </div>
-                </nav>
-            </header> */}
-
+            {/* <div className="row">
+                <div className="col-lg-6">
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime adipisci reprehenderit itaque voluptatum. Eum quam culpa necessitatibus, fugiat eveniet at explicabo sint dolorem, omnis in officia repellat asperiores iste fugit?</p>
+                </div>
+                <div className="col-lg-6">
+                    <img src="./banner-3.jpg" alt="" />
+                </div>
+            </div> */}
         </div>
     );
 };
