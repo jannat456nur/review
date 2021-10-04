@@ -11,7 +11,7 @@ const Service = (props) => {
                 <div class="card-body mt-2 cart">
                     <h1 class="card-title">{title}</h1>
                     <p class="card-text">{p}</p>
-                    <button className="btn btn-secondary">Learn more<i class="fas fa-chevron-right"></i><i class="fas fa-chevron-right"></i></button>
+                    <button className="btn secondary">Learn more<i class="fas fa-chevron-right"></i><i class="fas fa-chevron-right"></i></button>
                 </div>
 
             </div>

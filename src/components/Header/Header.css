@@ -1,19 +1,29 @@
+
+.logo{
+    width: 50px;
+    height: 40px;
+}
 .link{
     text-decoration: none;
     padding: 5px;
+    color: #71b280;
    
 }
-/* .heading{
-    margin-top: 300px;
-} */
-.nav{
-    padding: 250px;
-    background-image: url(./banner-3.jpg);
-    background-repeat: no-repeat;
-  
+.link:hover{
+    color: white;
 }
 .button{
     margin-top: 30px;
     /* background-color: white;
     color: black; */
+}
+.image{
+    width: 60%;
+}
+.special{
+    color: #71b280;
+}
+.heading{
+    margin-top: 200px;
+    padding-left: 10px;
 }

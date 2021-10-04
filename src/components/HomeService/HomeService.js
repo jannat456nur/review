@@ -9,9 +9,9 @@ const HomeService = (props) => {
                 <div class="card h-100">
                     <img src={img} alt="" />
                     <div class="card-body mt-2 ">
-                        <h1 class="card-title">{title}</h1>
+                        <h3 class="card-title">{title}</h3>
                         <p class="card-text">{p}</p>
-                        <h1 class="card-text">{taka}</h1>
+                        <h3 class="card-text">{taka}</h3>
                     </div>
                 </div>
             </div>
