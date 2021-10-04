@@ -1,0 +1,16 @@
+.link{
+    text-decoration: none;
+    padding: 5px;
+}
+/* .heading{
+    margin-top: 300px;
+} */
+.nav{
+    padding: 250px;
+    background-image: url(./banner-3.jpg);
+    background-repeat: no-repeat;
+  
+}
+.button{
+    margin-top: 20px;
+}
