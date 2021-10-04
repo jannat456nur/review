@@ -3,6 +3,7 @@ import HomeService from '../HomeService/HomeService';
 
 
 const Home = () => {
+    //load data
     const [homeServices, setHomeServices] = useState([])
     useEffect(() => {
         fetch('./home.JSON')
@@ -13,7 +14,7 @@ const Home = () => {
         <div>
 
 
-            <div class="row row-cols-1 row-cols-md-3 g-4 ">
+            <div className="row row-cols-1 row-cols-md-3 g-4 ">
                 {
                     homeServices.map(homeService => <HomeService
                         key={homeService.id}

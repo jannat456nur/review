@@ -6,19 +6,19 @@ const Signin = () => {
         <div>
             <form>
 
-                <div class="mb-3">
-                    <label for="exampleInputPassword1" class="form-label">Email</label>
-                    <input type="email" class="w-50" id="exampleInputPassword1" />
+                <div className="mb-3">
+                    <label for="exampleInputPassword1" className="form-label">Email</label>
+                    <input type="email" className="w-50" id="exampleInputPassword1" />
                 </div>
-                <div class="mb-3">
-                    <label for="exampleInputPassword1" class="form-label">Password</label>
-                    <input type="password" class="w-50" id="exampleInputPassword1" />
+                <div className="mb-3">
+                    <label for="exampleInputPassword1" className="form-label">Password</label>
+                    <input type="password" className="w-50" id="exampleInputPassword1" />
                 </div>
-                <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1" />
-                    {/* <label class="form-check-label" for="exampleCheck1">Check me out</label> */}
+                <div className="mb-3 form-check">
+                    <input type="checkbox" className="form-check-input" id="exampleCheck1" />
+
                 </div>
-                <button type="submit" class="btn secondary mb-2">Submit</button>
+                <button type="submit" className="btn secondary mb-2">Submit</button>
             </form>
 
         </div>
