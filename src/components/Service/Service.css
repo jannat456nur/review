@@ -5,3 +5,9 @@
     background-color: #71b280;
     color: white;
 }
+.explore-card {
+    transition: transform 0.5s;
+}
+.explore-card:hover {
+    transform: translateY(-10px);
+}

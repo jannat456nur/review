@@ -7,3 +7,9 @@ background-color: #91cc9d;;
 .cart{
     border-radius: 30px;
 }
+.explore-card {
+    transition: transform 0.5s;
+}
+.explore-card:hover {
+    transform: translateY(-10px);
+}
