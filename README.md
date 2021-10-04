@@ -1,6 +1,6 @@
 # Learn Quran online with AlQuranRecite
 
-# Live site_
+# Live site _https://elated-raman-f57369.netlify.app/
 
 # Features 
 1.In the home page several types of courses are available.

@@ -1,12 +1,5 @@
 [
     {
-        "id": "1",
-        "title": "Online Skype Quran Classes",
-        "taka": "30$",
-        "p": "Our Quran classes offer flexible and customized learning opportunities for busy adults…",
-        "img": "https://image.shutterstock.com/image-photo/two-muslim-asian-women-wearing-260nw-1916890343.jpg"
-    },
-    {
         "id": "2",
         "title": "Online Quran Teaching at Home",
         "taka": "50$",
@@ -17,13 +10,6 @@
         "id": "3",
         "title": "Quran Classes for Kids",
         "taka": "20$",
-        "p": "Our Quran classes offer flexible and customized learning opportunities for busy adults…",
-        "img": "https://i.pinimg.com/474x/b8/c1/0e/b8c10edd21bdb48112488f2f393c0e1d--kids-online-online-quran.jpg"
-    },
-    {
-        "id": "4",
-        "title": "Learn Quran with Tajweed",
-        "taka": "40$",
         "p": "Our Quran classes offer flexible and customized learning opportunities for busy adults…",
         "img": "https://i.pinimg.com/474x/b8/c1/0e/b8c10edd21bdb48112488f2f393c0e1d--kids-online-online-quran.jpg"
     },

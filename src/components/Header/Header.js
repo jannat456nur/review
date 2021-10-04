@@ -15,7 +15,7 @@ const Header = () => {
 
 
                 <div className="col-lg-8 col-md-6 col-sm-12  ">
-                    <i class="fas fa-book-open"><span className="special"> Al Quran </span> <span  >Recite</span></i>
+                    <i className="fas fa-book-open"><span className="special"> Al Quran </span> <span  >Recite</span></i>
                     {/* <p>Al Quran <span>Recite</span></p> */}
                     {/* <img className="logo" src={logo} alt="" /> */}
                     <Link className="  link" to="/home">Home</Link>
@@ -27,7 +27,7 @@ const Header = () => {
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-12 ">
                     <Link className="link " to="/signin">Sign in</Link>
-                    <Link className="  link " to="/signup">Sign up <i class="fas fa-sign-in-alt"></i></Link>
+                    <Link className="  link " to="/signup">Sign up <i className="fas fa-sign-in-alt"></i></Link>
 
                 </div>
 

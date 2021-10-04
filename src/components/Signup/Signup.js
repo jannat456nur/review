@@ -6,6 +6,7 @@ const Signup = () => {
         <div>
             <form>
                 <div className="mb-3">
+                    {/* sign up form */}
                     <div className="mb-3">
                         <label for="exampleInputPassword1" className="form-label p-2">Name</label>
                         <input type="password" className="w-50" id="exampleInputPassword1" />
@@ -34,8 +35,11 @@ const Signup = () => {
                     <input type="checkbox" className="form-check-input" id="exampleCheck1" />
                     <label className="form-check-label" for="exampleCheck1">Check me out</label>
                 </div> */}
+                {/* submit buton */}
                 <button type="submit" className="btn secondary mb-2">Submit</button>
             </form>
+
+
 
         </div>
     );
